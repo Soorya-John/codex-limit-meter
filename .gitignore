@@ -1,0 +1,7 @@
+check-result.txt
+*.log
+.vs/
+obj/
+bin/
+tools/gh/
+tests/temp/
